@@ -1,0 +1,10 @@
+#buttonSort{
+    display: none;
+}
+div{
+    padding: 20px;
+}
+input{
+    margin-top: 15px;
+    margin-left: 10px;
+}
